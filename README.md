@@ -2,6 +2,6 @@
 
 Här följer jag en tutorial som min lärare, Michael Gustavsson har skapat till oss som studerar Webbutveckling .NET i kursen Klientprogrammering. I denna del av kursen ska vi lära oss att skapa en ren React applikation.
 
-Detta är <strong>endast en mall</strong> för kommande React applikationer. 
+<strong>Detta är endast en mall</strong> för kommande React applikationer. 
 
 Se video: https://www.youtube.com/watch?v=s416FHoe0hc&list=PLHec-OCPmMLCGEBeSUIFokv6xBUcX9XSH&index=2&ab_channel=MichaelGustavsson
